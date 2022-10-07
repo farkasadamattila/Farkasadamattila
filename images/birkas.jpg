@@ -1,0 +1,1114 @@
+<!DOCTYPE html>
+<!-- saved from url=(0043)https://adatbank.mlsz.hu/player/791561.html -->
+<html lang="hu"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="./birkas_files/mlsz-logo-kicsi.png">
+    
+
+    <title>BIRKÁS  MÁRK - LETENYE SE - MLSZ adatbank</title>
+    <meta name="description" content="">
+
+	<script type="text/javascript" async="" src="./birkas_files/ga.js.letöltés"></script><script>
+		var Protocol = 'https://';
+	</script>
+    <script type="text/javascript" async="" src="./birkas_files/ga.js(1).letöltés"></script>
+    <script src="./birkas_files/jquery.min.js.letöltés"></script>
+    <script src="./birkas_files/jquery-ui.min.js.letöltés"></script>
+    <script src="./birkas_files/bootstrap.min.js.letöltés"></script>
+	<script src="./birkas_files/script.js.letöltés"></script>
+
+	<script src="./birkas_files/datepicker.js.letöltés"></script>
+    <script src="./birkas_files/lightslider.js.letöltés"></script>
+
+        <!--script src="https://ada1bank.mlsz.hu/meccs-center/js/script.js"></script-->
+    <script src="./birkas_files/lightgallery-all.js.letöltés"></script>
+
+    <script src="./birkas_files/jquery.drawDoughnutChart.js.letöltés"></script>
+
+    <script src="./birkas_files/adatbank.js.letöltés"></script>
+    <link rel="stylesheet" href="./birkas_files/bootstrap.min.css">
+    <!--<link rel="stylesheet" type="text/css" href="https://ada1bank.mlsz.hu/meccs-center/css/template/menu.css" />
+    <link rel="stylesheet" type="text/css" href="https://ada1bank.mlsz.hu/meccs-center/css/template/style.css" />
+    <link rel="stylesheet" type="text/css" href="https://ada1bank.mlsz.hu/meccs-center/css/template/template.css" />
+    <link rel="stylesheet" type="text/css" href="https://ada1bank.mlsz.hu/meccs-center/css/template/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css" href="https://ada1bank.mlsz.hu/meccs-center/css/template/owl.theme.css" />
+    <link rel="stylesheet" type="text/css" href="https://ada1bank.mlsz.hu/meccs-center/css/template/ifa_style.css" />
+    <link rel="stylesheet" type="text/css" href="https://ada1bank.mlsz.hu/meccs-center/css/template/responsive.css" />-->
+    <link rel="stylesheet" type="text/css" href="./birkas_files/font-awesome.min.css">
+    <link rel="stylesheet" href="./birkas_files/lightslider.css">
+    <link type="text/css" rel="stylesheet" href="./birkas_files/lightgallery.css">
+    <link rel="stylesheet" href="./birkas_files/ionicons.css">
+    <link rel="stylesheet" href="./birkas_files/datepicker.css">
+    <link rel="stylesheet" href="./birkas_files/jquery-ui.css">
+    <link href="./birkas_files/css" rel="stylesheet">
+
+        <link rel="stylesheet" type="text/css" href="./birkas_files/icomoon.css">
+    <link rel="stylesheet" type="text/css" href="./birkas_files/style.css">
+    <link rel="stylesheet" type="text/css" href="./birkas_files/zoli.css">
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-54854777-1']);
+  _gaq.push(['_setDomainName', 'mlsz.hu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<script src="./birkas_files/login.js.letöltés"></script></head>
+
+
+<body style="overflow: auto;" cz-shortcut-listen="true">
+    <div class="form-overlay" id="message" style="display:none">
+        <div class="form-overlay-cont">
+            <div class="form-ol-close"><a class="closePopup" style="cursor:pointer;"><span class="ion-close"></span></a></div>
+            <div class="form-ol-head"></div>
+            <div class="form-ol-msg"></div>
+            <div class="form-ol-btn"></div>
+        </div>
+    </div>
+    <header>
+            <nav class="navbar-top-links">
+                <div class="container nav-container">
+                    <div class="row">
+                        <ul class="top-nav hidden-xs hidden-sm">
+                            <li class="mlsz-link">
+                                <a href="https://www.mlsz.hu/">
+                                <svg version="1.1" id="mlsz-hu-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="67" height="15" viewBox="0 0 28.4 6.3" style="enable-background:new 0 0 28.4 6.3;" xml:space="preserve">
+                                <style type="text/css">
+                                    .st0{fill:#fff;}
+                                </style>
+                                <g><path class="st0" d="M2.9,5.8L1.9,2h0c0,0.6,0.1,1.1,0.1,1.5v2.3H0.7V0.6h1.9l1.1,3.7h0l1.1-3.7h1.9v5.2H5.3V3.5c0-0.1,0-0.2,0-0.4c0-0.1,0-0.5,0-1.1h0l-1,3.7H2.9z"></path>
+                                    <path class="st0" d="M7.6,5.8V0.6H9v4.1h2v1.1H7.6z"></path>
+                                    <path class="st0" d="M15.2,4.2c0,0.3-0.1,0.6-0.2,0.9c-0.2,0.2-0.4,0.4-0.7,0.6c-0.3,0.1-0.7,0.2-1.1,0.2c-0.3,0-0.6,0-0.9-0.1s-0.5-0.1-0.7-0.3V4.3c0.3,0.1,0.5,0.2,0.8,0.3c0.3,0.1,0.6,0.1,0.8,0.1c0.2,0,0.4,0,0.5-0.1c0.1-0.1,0.1-0.2,0.1-0.3c0-0.1,0-0.1-0.1-0.2c0-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.3-0.2-0.7-0.3c-0.3-0.2-0.6-0.3-0.8-0.4c-0.2-0.1-0.3-0.3-0.4-0.5S11.6,2.3,11.6,2c0-0.5,0.2-0.9,0.5-1.1c0.3-0.3,0.8-0.4,1.4-0.4c0.5,0,1.1,0.1,1.6,0.4L14.8,2c-0.5-0.2-0.9-0.3-1.3-0.3c-0.2,0-0.3,0-0.4,0.1S13,1.9,13,2c0,0.1,0.1,0.2,0.2,0.3c0.1,0.1,0.4,0.2,0.9,0.4c0.4,0.2,0.8,0.4,0.9,0.6S15.2,3.9,15.2,4.2z"></path>
+                                    <path class="st0" d="M18.7,5.2c0-0.2,0.1-0.3,0.1-0.5h-1.4l2.2-3.2V0.6h-3.9v1.1h2.2l-2.2,3.2v0.8h3.2C18.7,5.6,18.7,5.4,18.7,5.2z"></path>
+                                </g><g><path class="st0" d="M23.3,5.8V3.4c0-0.3-0.1-0.5-0.2-0.7s-0.3-0.2-0.6-0.2c-0.4,0-0.7,0.1-0.8,0.3c-0.2,0.2-0.3,0.5-0.3,1v1.9h-0.6V0.6h0.6v1.6c0,0.2,0,0.3,0,0.5h0c0.1-0.2,0.3-0.3,0.5-0.4s0.4-0.2,0.7-0.2c0.4,0,0.8,0.1,1,0.3c0.2,0.2,0.3,0.5,0.3,1v2.4H23.3z"></path>
+                                    <path class="st0" d="M24.9,2.2v2.4c0,0.3,0.1,0.5,0.2,0.7c0.1,0.1,0.3,0.2,0.6,0.2c0.4,0,0.7-0.1,0.8-0.3c0.2-0.2,0.3-0.5,0.3-1V2.2h0.6v3.6h-0.5l-0.1-0.5h0c-0.1,0.2-0.3,0.3-0.5,0.4c-0.2,0.1-0.4,0.1-0.7,0.1c-0.4,0-0.8-0.1-1-0.3s-0.3-0.5-0.3-1V2.2H24.9z"></path></g><g><circle class="st0" cx="19.7" cy="5.2" r="0.7"></circle></g></svg>
+                                    </a>
+                            </li>
+                            <li> <a href="https://valogatott.mlsz.hu/">Válogatottak</a></li>
+                            <li class="highlight-red"> <a href="https://ada1bank.mlsz.hu/">Meccscenter</a></li>
+                            <li><a href="https://meccsjegy.mlsz.hu/">Meccsjegy</a></li>
+                            <li><a href="https://szurkoloiklub.mlsz.hu/">Szurkolói klub</a></li>
+                            <li><a href="https://webshop.mlsz.hu/">Webshop</a></li>
+                            <li><a href="https://szovetseg.mlsz.hu/">Szövetség</a></li>
+                            <li><a href="https://fejlesztesek.mlsz.hu/">Fejlesztések</a></li>
+                        </ul>
+                                            </div>
+                </div>
+            </nav>
+
+            <nav class="navbar navbar-default">
+                <div class="container nav-container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" id="mobile-nav-btn">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                                                    <a class="navbar-brand" href="https://ada1bank.mlsz.hu/league">
+                                <img src="./birkas_files/mlsz-logo-kicsi.png" alt="MLSZ - Adatbank" class="lazy">
+
+                                <span>ADATBANK</span>
+                            </a>
+                        
+                        <a class="navbar-brand print" href="https://ada1bank.mlsz.hu/league">
+                                <img src="./birkas_files/mlsz-logo-kicsi.png" alt="MLSZ - Adatbank" class="lazy">
+                                <span><!--?=$print_header?--></span>
+                            </a>
+                    </div>
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav navbar-right">
+
+                                                            <li class="nav-link" data-header="Hónap legjobbjai"><a href="http://toplista.mlsz.hu/" target="_BLANK"> Hónap legjobbjai</a>
+                                    <div class="navbar-border"></div>
+                                </li>
+                                                                    <li class="nav-link login_replace" data-header="Meccscenter"><a href="https://ada1bank.mlsz.hu/"> Meccscenter</a>
+                                        <div class="navbar-border"></div>
+                                    </li>
+                                
+                                                                                    </ul>
+                    </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+                <!-- /.container-fluid -->
+            </nav>
+
+            <nav id="mobile-nav">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="mobile-nav-header col-sm-12 col-xs-12">
+                            <a class="navbar-brand" href="https://adatbank.mlsz.hu/">
+                                <img src="./birkas_files/mlsz-hu-big-logo.png" class="lazy">
+                            </a>
+                            <button id="mobile-nav-close"><i class="fa fa-times-circle-o" aria-hidden="true"></i></button>
+                        </div>
+                        <div class="mobile-nav-links col-sm-12 col-xs-12">
+                            <div class="row">
+
+                                <ul class="mobile-links">
+
+                                                                            <li class="dropdown" data-header="Hónap legjobbjai">
+                                            <a href="http://toplista.mlsz.hu/" target="_BLANK" class="main-drop-btn mobile-drop-btn">
+                                            <div class="link-icon-box"><img src="./birkas_files/valogattotak-icon.png" alt="Hónap legjobbjai" class="lazy"></div>Hónap legjobbjai</a>
+                                        </li>
+                                                                                    <li class="dropdown login_replace" data-header="Meccscenter">
+                                                <a href="https://ada1bank.mlsz.hu/" class="main-drop-btn mobile-drop-btn">
+                                                <div class="link-icon-box"><i class="fa fa-user" aria-hidden="true"></i></div>Meccscenter</a>
+                                            </li>
+                                        
+                                                                            
+                                    <li class="dropdown">
+                                        <a id="dLabel2" role="button" data-toggle="dropdown" class="main-drop-btn mobile-drop-btn" data-target="#" href="https://adatbank.mlsz.hu/player/791561.html#">
+                                            <div class="link-icon-box"><img src="./birkas_files/valogattotak-icon.png" alt="Válogatottak" class="lazy"></div>Válogatottak<span class="caret-border"><span class="right-caret"></span></span>
+                                        </a>
+                                        <ul class="dropdown-menu multi-level">
+                                            <li><a href="https://adatbank.mlsz.hu/player/791561.html#" class="dropdown-title"><span class="left-caret"></span> Válogatottak</a></li>
+                                            <li><a href="http://mlsz.jellyone.hu/">Főoldal</a></li>
+                                            <li class="dropdown dropdown-submenu">
+                                                <a href="https://adatbank.mlsz.hu/player/791561.html#" class="dropdown-toggle" data-toggle="dropdown">Férfi A válogatott<span class="right-caret"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="https://valogatott.mlsz.hu/ferfi-a-valogatott">Főoldal</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/ferfi-a-valogatott/hirek">Hírek</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/ferfi-a-valogatott/meccsek">Meccsek &amp; eredmények</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/ferfi-a-valogatott/csapat">Csapat</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/ferfi-a-valogatott/galeria">Galériák</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown dropdown-submenu">
+                                                <a href="https://adatbank.mlsz.hu/player/791561.html#" class="dropdown-toggle" data-toggle="dropdown">Női A válogatott<span class="right-caret"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="https://valogatott.mlsz.hu/noi-a-valogatott">Főoldal</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/noi-a-valogatott/hirek">Hírek</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/noi-a-valogatott/meccsek">Meccsek &amp; eredmények</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/noi-a-valogatott/csapat">Csapat</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/noi-a-valogatott/galeria">Galériák</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown dropdown-submenu">
+                                                <a href="https://adatbank.mlsz.hu/player/791561.html#" class="dropdown-toggle" data-toggle="dropdown">Férfi U21<span class="right-caret"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="https://valogatott.mlsz.hu/u21-ferfi">Főoldal</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/u21-ferfi/hirek">Hírek</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/u21-ferfi/meccsek">Meccsek &amp; eredmények</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/u21-ferfi/csapat">Csapat</a></li>
+
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown dropdown-submenu">
+                                                <a href="https://adatbank.mlsz.hu/player/791561.html#" class="dropdown-toggle" data-toggle="dropdown">Férfi U19<span class="right-caret"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="https://valogatott.mlsz.hu/u19-ferfi">Főoldal</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/u19-ferfi/hirek">Hírek</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/u19-ferfi/meccsek">Meccsek &amp; eredmények</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/u19-ferfi/csapat">Csapat</a></li>
+
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown dropdown-submenu">
+                                                <a href="https://adatbank.mlsz.hu/player/791561.html#" class="dropdown-toggle" data-toggle="dropdown">Férfi U17<span class="right-caret"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="https://valogatott.mlsz.hu/u17-ferfi">Főoldal</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/u17-ferfi/hirek">Hírek</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/u17-ferfi/meccsek">Meccsek &amp; eredmények</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/u17-ferfi/csapat">Csapat</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/u17-ferfi/galeria">Galériák</a></li>
+                                                </ul>
+                                            </li>
+
+                                            <li class="dropdown dropdown-submenu">
+                                                <a href="https://adatbank.mlsz.hu/player/791561.html#" class="dropdown-toggle" data-toggle="dropdown">Női U19<span class="right-caret"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="https://valogatott.mlsz.hu/u19-noi">Főoldal</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/u19-noi/hirek">Hírek</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/u19-noi/meccsek">Meccsek &amp; eredmények</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/u19-noi/csapat">Csapat</a></li>
+
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown dropdown-submenu">
+                                                <a href="https://adatbank.mlsz.hu/player/791561.html#" class="dropdown-toggle" data-toggle="dropdown">Női U17<span class="right-caret"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="https://valogatott.mlsz.hu/u17-noi">Főoldal</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/u17-noi/hirek">Hírek</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/u17-noi/meccsek">Meccsek &amp; eredmények</a></li>
+
+                                                    <li><a href="https://valogatott.mlsz.hu/u17-noi/galeria">Galériák</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown dropdown-submenu">
+                                                <a href="https://adatbank.mlsz.hu/player/791561.html#" class="dropdown-toggle" data-toggle="dropdown">Futsal Válogatott<span class="right-caret"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="https://valogatott.mlsz.hu/futsal-ferfi">Főoldal</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/futsal-ferfi/hirek">Hírek</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/futsal-ferfi/meccsek">Meccsek &amp; eredmények</a></li>
+                                                    <li><a href="https://valogatott.mlsz.hu/futsal-ferfi/csapat">Csapat</a></li>
+
+                                                </ul>
+                                            </li>
+
+                                        </ul>
+                                    </li>
+                                                                        <li class="dropdown">
+                                        <a id="dLabel4" role="button" class="main-drop-btn mobile-drop-btn" data-target="#" href="https://meccsjegy.mlsz.hu/">
+                                            <div class="link-icon-box"><img src="./birkas_files/jegy-icon.png" alt="Meccsjegy" class="lazy"></div>Meccsjegy <span class="caret-border"><span class="right-caret"></span></span>
+                                        </a>
+
+                                    </li>
+                                    <li class="dropdown">
+                                        <a id="dLabel4" role="button" class="main-drop-btn mobile-drop-btn" data-target="#" href="https://szurkoloiklub.mlsz.hu/">
+                                            <div class="link-icon-box"><img src="./birkas_files/szurkolo-icon.png" alt="Szurkolói klubb" class="lazy"></div>Szurkolói klub <span class="caret-border"><span class="right-caret"></span></span>
+                                        </a>
+
+                                    </li>
+                                    <li class="dropdown">
+                                        <a id="dLabel4" role="button" class="main-drop-btn mobile-drop-btn" data-target="#" href="http://webshop.mlsz.hu/">
+                                            <div class="link-icon-box"><img src="./birkas_files/webshop-icon.png" alt="Webshop" class="lazy"></div>Webshop <span class="caret-border"><span class="right-caret"></span></span>
+                                        </a>
+
+                                    </li>
+                                    <li class="dropdown">
+                                        <a id="dLabel4" role="button" data-toggle="dropdown" class="main-drop-btn mobile-drop-btn" data-target="#" href="https://adatbank.mlsz.hu/player/791561.html#">
+                                            <div class="link-icon-box"><img src="./birkas_files/mlsz_ikonok_szovetseg.png" alt="Szövetség" class="lazy"></div>Szövetség <span class="caret-border"><span class="right-caret"></span></span>
+                                        </a>
+                                        <ul class="dropdown-menu multi-level">
+                                            <li><a href="https://adatbank.mlsz.hu/player/791561.html#" class="dropdown-title"><span class="left-caret"></span> Szövetség</a></li>
+                                            <li><a href="https://szovetseg.mlsz.hu/">Főoldal</a></li>                                <li><a href="https://futballszakma.mlsz.hu/">Futballszakma</a></li>                                <li><a href="https://jatekvezetes.mlsz.hu/">Játékvezetés</a></li>                                <li><a href="https://felnottkepzes.mlsz.hu/">Felnőttképzés</a></li>                                <li><a href="https://portal.coacheducation.hu/">Edzőképzés</a></li>                                <li><a href="https://futballtortenelem.mlsz.hu/">Futballtörténelem</a></li>                                <li><a href="https://grassroots.mlsz.hu/">Grassroots</a></li>                                <li><a href="https://szocialis-programok.mlsz.hu/">Szociális program</a></li>                                <li><a href="https://bozsikprogram.mlsz.hu/">Bozsik Program</a></li>                                <li><a href="https://fairplaycup.mlsz.hu/">Fairplay Cup</a></li>                                                            </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a id="dLabel4" role="button" data-toggle="dropdown" class="main-drop-btn mobile-drop-btn" data-target="#" href="https://adatbank.mlsz.hu/player/791561.html#">
+                                            <div class="link-icon-box"><img src="./birkas_files/mlsz_ikonok_igazgatosag.png" alt="Igazgatóságok" class="lazy"></div>Igazgatóságok <span class="caret-border"><span class="right-caret"></span></span>
+                                        </a>
+                                        <ul class="dropdown-menu multi-level">
+                                <li><a href="https://adatbank.mlsz.hu/player/791561.html#" class="dropdown-title"><span class="left-caret"></span> Igazgatóságok</a></li>
+                                <li><a href="https://veszprem.mlsz.hu/">Veszprém</a></li>                                <li><a href="https://baranya.mlsz.hu/">Baranya</a></li>                                <li><a href="https://bacs.mlsz.hu/">Bács-Kiskun</a></li>                                <li><a href="https://bekes.mlsz.hu/">Békés</a></li>                                <li><a href="https://borsod.mlsz.hu/">Borsod-A-Z</a></li>                                <li><a href="https://budapest.mlsz.hu/">Budapest</a></li>                                <li><a href="https://csongrad.mlsz.hu/">Csongrád</a></li>                                <li><a href="https://fejer.mlsz.hu/">Fejér</a></li>                                <li><a href="https://gyor.mlsz.hu/">Győr-M-S</a></li>                                <li><a href="https://hajdu-bihar.mlsz.hu/">Hajdú-Bihar</a></li>                                <li><a href="https://heves.mlsz.hu/">Heves</a></li>                                <li><a href="https://szolnok.mlsz.hu/">Jász-N-Sz</a></li>                                <li><a href="https://komarom.mlsz.hu/">Komárom-Esztergom</a></li>                                <li><a href="https://nograd.mlsz.hu/">Nógrád</a></li>                                <li><a href="https://vas.mlsz.hu/">Vas</a></li>                                <li><a href="https://pest.mlsz.hu/">Pest</a></li>                                <li><a href="https://somogy.mlsz.hu/">Somogy</a></li>                                <li><a href="https://szabolcs.mlsz.hu/">Szabolcs-Sz-B</a></li>                                <li><a href="https://tolna.mlsz.hu/">Tolna</a></li>                                <li><a href="https://zala.mlsz.hu/">Zala</a></li>                                                            </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a id="dLabel4" role="button" data-toggle="dropdown" class="main-drop-btn mobile-drop-btn" data-target="#" href="https://adatbank.mlsz.hu/player/791561.html#">
+                                            <div class="link-icon-box"><img src="./birkas_files/fejlesztes-icon.png" alt="Fejlesztések" class="lazy"></div>Fejlesztések <span class="caret-border"><span class="right-caret"></span></span>
+                                        </a>
+                                        <ul class="dropdown-menu multi-level">
+                                            <li><a href="https://adatbank.mlsz.hu/player/791561.html#" class="dropdown-title"><span class="left-caret"></span> Fejlesztések</a></li>
+                                            <li><a href="https://fejlesztesek.mlsz.hu/">Főoldal</a></li>                                <li><a href="https://tao-palyazatok.mlsz.hu/">TAO pályázat</a></li>                                <li><a href="https://tao-ellenorzes.mlsz.hu/">TAO ellenőrzés</a></li>                                <li><a href="https://palyaepites.mlsz.hu/">OPP</a></li>                                                            </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+
+
+            <!-- Search Modal Desktop-->
+            <div class="modal fade hidden-xs hidden-sm" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <input class="search-input" name="search-input" placeholder="Keresés">
+                            <button><i class="fa fa-search" aria-hidden="true"></i> Keresés</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--Search mobile-->
+            <div id="mobile-search" class="hidden-md hidden-lg">
+                <div class="mobile-search-header col-sm-12 col-xs-12">
+                    <div class="row">
+                        <div class="col-sm-6 col-xs-6">
+                            <img src="./birkas_files/mlsz-hu-big-logo.png" class="lazy">
+                        </div>
+                        <div class="col-sm-6 col-xs-6">
+                            <span>Kereső</span>
+                            <button id="mobile-search-close"><i class="fa fa-times-circle-o" aria-hidden="true"></i></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-xs-12">
+                    <input class="search-input" name="search-input-mobile" placeholder="Keresés">
+                    <button class="search-input-btn"><i class="fa fa-search" aria-hidden="true"></i></button>
+                </div>
+            </div>
+    </header>
+
+	
+    <div class="form-overlay" id="forgotten" style="display:none">
+        <div class="form-overlay-cont">
+            <div class="form-ol-close"><a class="closePopup" style="cursor:pointer;"><span class="ion-close"></span></a></div>
+            <div class="form-ol-head">Elfelejtett jelszó</div>
+
+            <div class="form-group">
+                <form mehod="POST" name="forgottenform" id="forgottenform">
+                    <div class="input-group margin-bottom-sm">
+                        <span class="input-group-addon"><i class="fa fa-envelope fa-fw"></i></span>
+                        <input class="form-control" type="text" name="forgottenmail" id="forgottenmail" required="">
+                        <span class="floating-label">E-mail cím</span>
+                    </div>
+                    <div class="form-ol-error" id="forgottenerror"></div>
+                    <button type="button" id="sendremaindermail" class="btn btn-default">Új jelszó küldése</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <input type="hidden" value="56" id="hiddenEvad">
+
+<input type="hidden" value="20" id="hiddenSzervezet">
+
+<input type="hidden" value="23957" id="hiddenVerseny">
+
+<input type="hidden" value="30" id="hiddenFordulo">
+
+<div class="filterhide2">
+      <div class="container">
+        <span class="filtertitle" id="evadTitle">Évad</span>
+        <div class="round-separator"></div>
+        <span class="filtertitle" id="federationsTitle">Szervező</span>
+        <div class="round-separator"></div>
+        <span class="filtertitle" id="leaguesTitle">Liga</span>
+        <div class="round-separator"></div>
+        <span class="filtertitle" id="turnsTitle">Forduló</span>
+      </div>
+</div>
+<div class="round-selector">
+    <div class="container">
+        <div class="filterhide">
+          Szűrők <span class="ion-ios-arrow-down"></span>
+        </div>
+        <div class="filtergroup">
+          <span class="filtertitle" id="evadTitle">Évad</span>
+          <select id="evad" onchange="changeYear(this.value);">
+            <option value="59">2022/2023</option><option selected="" value="56">2021/2022</option><option value="54">2020/2021</option><option value="52">2019/2020</option><option value="49">2018/2019</option><option value="46">2017/2018</option><option value="15">2016/2017</option><option value="14">2015/2016</option><option value="13">2014/2015</option><option value="12">2013/2014</option><option value="11">2012/2013</option><option value="10">2011/2012</option><option value="9">2010/2011</option><option value="8">2009/2010</option><option value="7">2008/2009</option><option value="6">2007/2008</option><option value="5">2006/2007</option><option value="4">2005/2006</option><option value="3">2004/2005</option><option value="2">2003/2004</option>      </select>
+
+        <div class="round-separator"></div>
+        <span class="filtertitle" id="federationsTitle">Szervező</span>
+        <select id="federations" onchange="changeFederation(this.value)"><option value="0">MLSZ</option><option value="1">Bács-Kiskun</option><option value="2">Baranya</option><option value="3">Békés</option><option value="4">Borsod-Abaúj-Zemplén</option><option value="5">Budapest</option><option value="6">Csongrád</option><option value="7">Fejér</option><option value="8">Győr-Moson-Sopron</option><option value="9">Hajdú-Bihar</option><option value="10">Heves</option><option value="11">Jász-Nagykun-Szolnok</option><option value="12">Komárom-Esztergom</option><option value="13">Nógrád</option><option value="14">Pest</option><option value="15">Somogy</option><option value="16">Szabolcs-Szatmár-Bereg</option><option value="17">Tolna</option><option value="18">Vas</option><option value="19">Veszprém</option><option selected="" value="20">Zala</option></select>
+
+        <div class="round-separator"></div>
+                <span class="filtertitle" id="leaguesTitle">Liga</span>
+        <select id="leagues" onchange="changeLeague(this.value)"><option value="23953">Zala Megyei Kupa</option><option value="23954">Megyei I. osztály</option><option value="23955">Megyei I. osztály U19</option><option value="23956">Megyei II. osztály</option><option selected="" value="23957">Megyei II. osztály U19</option><option value="23958">Megyei III. Észak csoport</option><option value="23959">Megyei III. Közép csoport</option><option value="23960">Megyei III. Nyugati csoport</option><option value="23961">Megyei III. Keleti csoport</option><option value="23962">Megyei III. Déli csoport</option><option value="23963">Megyei Női I. osztály</option><option value="24385">MLSZ Regionális U16 Alap Észak-Nyugat</option><option value="24394">MLSZ Regionális U13 Nyugat</option><option value="23964">Megyei U16 Északi csoport</option><option value="24392">Megyei U16 Déli csoport</option><option value="25760">Megyei U13 bajnokság</option><option value="23965">Megyei U14 Zalaegerszegi csoport</option><option value="23966">Megyei U14 Nagykanizsai csoport</option><option value="23967">Megyei U13 "A" csoport</option><option value="24589">Megyei U13 "B" csoport</option><option value="24590">Megyei U13 "C" csoport</option><option value="24591">Megyei U13 "D" csoport</option><option value="24592">Megyei U13 "E" csoport</option><option value="24593">Megyei U13 "F" csoport</option><option value="24594">Megyei U13 "G" csoport</option><option value="24804">Téli Műfüves bajnokság I. osztály</option><option value="24805">Téli Műfüves bajnokság II. osztály</option><option value="24806">Téli Műfüves bajnokság III. osztály</option><option value="24160">FUTSAL U19</option><option value="24161">FUTSAL U17</option><option value="24162">FUTSAL U15</option><option value="24163">FUTSAL U13</option><option value="24164">FUTSAL U11</option><option value="24533">NK. Kispálya I. osztály</option><option value="24534">NK. Kispálya II. osztály</option><option value="24535">NK kispálya Senior 37</option><option value="24543">NK. Kispálya Senior 45</option><option value="24580">Zalaegerszeg Városi Kispályás bajnokság</option><option value="24663">Georgikon Kupa</option><option value="25227">Georgikon Kupa tavasz</option></select>
+
+        <div class="round-separator"></div>
+        <span class="filtertitle" id="turnsTitle">Forduló</span>
+        <select id="turns" onchange="changeTurn(this.value)">
+            <option value="-1" disabled="">Válasszon</option>
+                <option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option selected="" value="30">30</option>        </select>
+
+        <div id="filter-submit">
+          <div class="filter-submit-btn">
+                        <a href="https://adatbank.mlsz.hu/league/56/20/23957/30.html">
+                Tovább <i class="fa fa-angle-right" aria-hidden="true"></i>
+            </a>
+          </div>
+        </div>
+
+        <div class="round-separator"></div>
+
+        <div class="fast-search">
+            <input type="text" placeholder=" Játékos és csapatkereső" onkeydown="if(event.keyCode==13) search();" id="searchText" style="font-size: 10px;">
+        </div>
+        </div>
+
+    </div>
+</div>
+
+<div id="team_data">
+    <div class="container">
+        <h1 class="container_title">BIRKÁS  MÁRK</h1>
+        <div class="three-box-container player">
+            <div class="box2">
+                <div class="team_data">
+                    <div class="box_header">
+                        <span class="box_title">Játékos adatlap</span>
+                    </div>
+                    <div class="team_data_cont">
+                        <div class="team_data_logo">
+                            <div class="player_round_photo" style="background-image:url(https://adatbank.mlsz.hu/img/SzemelyFoto/Foto/1357/1356038.jpg)"></div>                            <!--<img onerror="this.onerror=null;this.src='https://adatbank.mlsz.hu/img/SzemelyFoto/Foto/johndoe.png'" src="https://adatbank.mlsz.hu/img/SzemelyFoto/Foto/1357/1356038.jpg" />-->
+                        </div>
+                        <div class="team_info_cell">
+                            <table class="team_info_wrapper">
+                                <tbody><tr class="detail">
+                                    <td class="dataname">Név</td>
+                                    <td class="datas">BIRKÁS  MÁRK</td>
+                                    <td class="datalogo" rowspan="5">
+										                                        <img src="./birkas_files/12406.png" alt="" class="lazy">
+										                                    </td>
+                                </tr>
+                                                              <tr class="detail">
+                                    <td class="dataname">Születési idő</td>
+                                    <td class="datas">2004. 04. 06.</td>
+                                </tr>
+                                <tr class="detail">
+                                    <td class="dataname">Kor</td>
+                                    <td class="datas">18</td>
+                                </tr>
+                                                                <tr class="detail">
+                                    <td class="dataname">Aktuális Klub</td>
+                                    <td class="datas">
+                                        <a href="https://adatbank.mlsz.hu/club/56/20/23957/30/232748.html">LETENYE SE (Labdarúgás)</a>                                    </td>
+                                </tr>
+                                                            </tbody></table>
+                        </div>
+                    </div>
+                    <div style="clear:both;"></div>
+                </div>
+
+				
+
+                   <div class="player_karrier perso_fp_stats all_perso_stat_div" id="carrierBox">
+                        <div class="container_subtitle">Karrier</div>
+                        <div id="perso_stat1">
+                            <div id="perso_stat1_chart"><svg width="185" height="185" viewBox="0 0 185 185" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M 92.56649328034622 9.000026475191817 A 83.5 83.5 0 1 1 92.55937013287597 9.000021106665415 Z M 92.54328331543502 31.625015387643792 A 60.875 60.875 0 1 0 92.5484763885159 31.625019301524567 Z" fill="rgba(0,0,0,0.0)"></path><g opacity="0.9999998780673678"><path fill="#00b1cc" data-order="0" d="M 92.5 10 A 82.5 82.5 0 0 1 119.748019415312 14.629624131234735 L 112.936014561484 34.09721809842605 A 61.875 61.875 0 0 0 92.5 30.625 Z"></path><path fill="#c61e29" data-order="1" d="M 119.748019415312 14.629624131234735 A 82.5 82.5 0 1 1 12.068457291090965 110.85802106614275 L 32.176342968318224 106.26851579960707 A 61.875 61.875 0 1 0 112.936014561484 34.09721809842605 Z"></path><path fill="#57455b" data-order="2" d="M 12.068457291090965 110.85802106614275 A 82.5 82.5 0 0 1 92.49993679466083 10.000000000024201 L 92.49995259599562 30.625000000018154 A 61.875 61.875 0 0 0 32.176342968318224 106.26851579960707 Z"></path></g></svg><div class="doughnutSummary" style="width: 82.5px; height: 82.5px; margin-left: -41.25px; margin-top: -41.25px;"><p class="doughnutSummaryTitle">56</p><p class="doughnutSummaryNumber" style="opacity: 1;">mérkőzés</p></div></div>
+                            <div class="perso_stat_title">Meccsek száma</div>
+                        </div>
+                        <div id="perso_stat2">
+                            <div class="perso_stat_bar">
+                                <div class="perso_stat_col perso_stat_col_goal">
+                                    <div class="perso_col_icon"></div>
+                                    <div class="perso_col_dot"></div>
+                                    <div class="perso_col_bottom">Gól</div>
+                                    <div class="perso_col_bg">
+                                                                                <div class="perso_col_data" style="height:0%" id="playerStatMatches">
+                                            <div class="perso_col_popup" id="playerStatGoalsCnt">0</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="perso_stat_col perso_stat_col_owngoal">
+                                    <div class="perso_col_icon"></div>
+                                    <div class="perso_col_dot"></div>
+                                    <div class="perso_col_bottom">Öngól</div>
+                                    <div class="perso_col_bg">
+                                                                                <div class="perso_col_data" style="height:0%" id="playerStatGoals">
+                                            <div class="perso_col_popup" id="playerStatOwnGoalsCnt">0</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="perso_stat_col perso_stat_col_yellow">
+                                    <div class="perso_col_icon"></div>
+                                    <div class="perso_col_dot"></div>
+                                    <div class="perso_col_bottom">Sárga</div>
+                                    <div class="perso_col_bg">
+										                                        <div class="perso_col_data" style="height:0%" id="playerStatYC">
+                                            <div class="perso_col_popup" id="playerStatYCCnt">0</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="perso_stat_col perso_stat_col_red">
+                                    <div class="perso_col_icon"></div>
+                                    <div class="perso_col_dot"></div>
+                                    <div class="perso_col_bottom">Piros</div>
+                                    <div class="perso_col_bg">
+										                                        <div class="perso_col_data" style="height:0%" id="playerStatRC">
+                                            <div class="perso_col_popup" id="playerStatRCCnt">0</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="perso_stat_col perso_stat_col_starter">
+                                    <div class="perso_col_icon"></div>
+                                    <div class="perso_col_dot"></div>
+                                    <div class="perso_col_bottom">Kezdő</div>
+                                    <div class="perso_col_bg">
+                                        <div class="perso_col_data" style="height:5.3571428571429%" id="playerStatStart">
+                                            <div class="perso_col_popup" id="playerStatStartCnt">3</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="perso_stat_col perso_stat_col_replace">
+                                    <div class="perso_col_icon"></div>
+                                    <div class="perso_col_dot"></div>
+                                    <div class="perso_col_bottom">Becserélés</div>
+                                    <div class="perso_col_bg">
+                                        <div class="perso_col_data" style="height:69.811320754717%" id="playerStatPlIn">
+                                            <div class="perso_col_popup" id="playerStatPlInCnt">37</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="perso_stat_col perso_stat_col_bench">
+                                    <div class="perso_col_icon"></div>
+                                    <div class="perso_col_dot"></div>
+                                    <div class="perso_col_bottom">Kispad</div>
+                                    <div class="perso_col_bg">
+                                        <div class="perso_col_data" style="height:30.188679245283%" id="playerStatPlOut">
+                                            <div class="perso_col_popup" id="playerStatPlOutCnt">16</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="clear:both"></div>
+                        </div>
+                        <div style="clear:both"></div>
+                    </div><div class="player_szezon_cont" id="statBySeasons">
+					<div class="container_subtitle">Szezon bontás</div>
+                    					<table class="player_szezon">
+						<thead>
+                            <tr>
+                                <th class="szezon_header"><div class="all_matches_table_season">
+                                        2021/2022 - LETENYE SE</div></th>
+                                <th>Ö<span class="under700">sszes</span></th>
+                                <th>K<span class="under700">ezdő</span></th>
+                                <th>Cs<span class="under700">ere</span></th>
+                                <th>Kispad</th>
+                                <th>G<span class="under700">ól</span></th>
+                                <th>Öngól</th>
+                                <th>S<span class="under700">árga</span></th>
+                                <th>P<span class="under700">iros</span></th>
+                                <th></th>
+                            </tr>
+                            <tr>
+                                <th></th>
+
+                                <th>17</th>
+                                <th>3</th>
+                                <th>9</th>
+                                <th>5</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th class="player_drop_icon" onclick="showLeaguesOnPlayer(this);"></th>
+                            </tr>
+						</thead>
+                        <tbody>
+                            
+								<tr class="hideLeague">
+									<td>Megyei II. osztály U19  <b>(7.)</b></td>
+									<td>15</td>
+									<td>3</td>
+									<td>8</td>
+									<td>4</td>
+									<td>0</td>
+									<td>0</td>
+									<td>0</td>
+									<td>0</td>
+	                                <td class="player_drop_icon" onclick="showStatDetailsByPlayerTd2(232748, 791561, &#39;2021/2022&#39;, 23957);"></td>
+								</tr>
+								<tr class="statDetailRow232748" style="display:none">
+									<td colspan="10" class="playerMatchesCont">
+										<table id="statDetail232748"></table>
+									</td>
+								</tr>
+							
+								<tr class="hideLeague">
+									<td>Megyei U16 Déli csoport  <b>(4.)</b></td>
+									<td>2</td>
+									<td>0</td>
+									<td>1</td>
+									<td>1</td>
+									<td>0</td>
+									<td>0</td>
+									<td>0</td>
+									<td>0</td>
+	                                <td class="player_drop_icon" onclick="showStatDetailsByPlayerTd2(235260, 791561, &#39;2021/2022&#39;, 24392);"></td>
+								</tr>
+								<tr class="statDetailRow235260" style="display:none">
+									<td colspan="10" class="playerMatchesCont">
+										<table id="statDetail235260"></table>
+									</td>
+								</tr>
+							                        </tbody>
+					</table>
+                     					<table class="player_szezon">
+						<thead>
+                            <tr>
+                                <th class="szezon_header"><div class="all_matches_table_season">
+                                        2020/2021 - LETENYE SE</div></th>
+                                <th>Ö<span class="under700">sszes</span></th>
+                                <th>K<span class="under700">ezdő</span></th>
+                                <th>Cs<span class="under700">ere</span></th>
+                                <th>Kispad</th>
+                                <th>G<span class="under700">ól</span></th>
+                                <th>Öngól</th>
+                                <th>S<span class="under700">árga</span></th>
+                                <th>P<span class="under700">iros</span></th>
+                                <th></th>
+                            </tr>
+                            <tr>
+                                <th></th>
+
+                                <th>16</th>
+                                <th>0</th>
+                                <th>13</th>
+                                <th>3</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th class="player_drop_icon" onclick="showLeaguesOnPlayer(this);"></th>
+                            </tr>
+						</thead>
+                        <tbody>
+                            
+								<tr class="hideLeague">
+									<td>Megyei I. osztály U19  <b>(13.)</b></td>
+									<td>16</td>
+									<td>0</td>
+									<td>13</td>
+									<td>3</td>
+									<td>0</td>
+									<td>0</td>
+									<td>0</td>
+									<td>0</td>
+	                                <td class="player_drop_icon" onclick="showStatDetailsByPlayerTd2(216189, 791561, &#39;2020/2021&#39;, 22746);"></td>
+								</tr>
+								<tr class="statDetailRow216189" style="display:none">
+									<td colspan="10" class="playerMatchesCont">
+										<table id="statDetail216189"></table>
+									</td>
+								</tr>
+							                        </tbody>
+					</table>
+                     					<table class="player_szezon">
+						<thead>
+                            <tr>
+                                <th class="szezon_header"><div class="all_matches_table_season">
+                                        2019/2020 - LETENYE SE</div></th>
+                                <th>Ö<span class="under700">sszes</span></th>
+                                <th>K<span class="under700">ezdő</span></th>
+                                <th>Cs<span class="under700">ere</span></th>
+                                <th>Kispad</th>
+                                <th>G<span class="under700">ól</span></th>
+                                <th>Öngól</th>
+                                <th>S<span class="under700">árga</span></th>
+                                <th>P<span class="under700">iros</span></th>
+                                <th></th>
+                            </tr>
+                            <tr>
+                                <th></th>
+
+                                <th>2</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>2</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th class="player_drop_icon" onclick="showLeaguesOnPlayer(this);"></th>
+                            </tr>
+						</thead>
+                        <tbody>
+                            
+								<tr class="hideLeague">
+									<td>Megyei II. osztály U19  <b>(9.)</b></td>
+									<td>2</td>
+									<td>0</td>
+									<td>0</td>
+									<td>2</td>
+									<td>0</td>
+									<td>0</td>
+									<td>0</td>
+									<td>0</td>
+	                                <td class="player_drop_icon" onclick="showStatDetailsByPlayerTd2(200361, 791561, &#39;2019/2020&#39;, 20993);"></td>
+								</tr>
+								<tr class="statDetailRow200361" style="display:none">
+									<td colspan="10" class="playerMatchesCont">
+										<table id="statDetail200361"></table>
+									</td>
+								</tr>
+							                        </tbody>
+					</table>
+                     					<table class="player_szezon">
+						<thead>
+                            <tr>
+                                <th class="szezon_header"><div class="all_matches_table_season">
+                                        2018/2019 - LETENYE SE</div></th>
+                                <th>Ö<span class="under700">sszes</span></th>
+                                <th>K<span class="under700">ezdő</span></th>
+                                <th>Cs<span class="under700">ere</span></th>
+                                <th>Kispad</th>
+                                <th>G<span class="under700">ól</span></th>
+                                <th>Öngól</th>
+                                <th>S<span class="under700">árga</span></th>
+                                <th>P<span class="under700">iros</span></th>
+                                <th></th>
+                            </tr>
+                            <tr>
+                                <th></th>
+
+                                <th>21</th>
+                                <th>0</th>
+                                <th>15</th>
+                                <th>6</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th class="player_drop_icon" onclick="showLeaguesOnPlayer(this);"></th>
+                            </tr>
+						</thead>
+                        <tbody>
+                            
+								<tr class="hideLeague">
+									<td>Megyei II. o. Dél U19  <b>(6.)</b></td>
+									<td>21</td>
+									<td>0</td>
+									<td>15</td>
+									<td>6</td>
+									<td>0</td>
+									<td>0</td>
+									<td>0</td>
+									<td>0</td>
+	                                <td class="player_drop_icon" onclick="showStatDetailsByPlayerTd2(183847, 791561, &#39;2018/2019&#39;, 19156);"></td>
+								</tr>
+								<tr class="statDetailRow183847" style="display:none">
+									<td colspan="10" class="playerMatchesCont">
+										<table id="statDetail183847"></table>
+									</td>
+								</tr>
+							                        </tbody>
+					</table>
+                     				</div>
+
+                    <div class="player_igazolas">
+						<div class="container_subtitle">Igazolások</div>
+
+						<div class="box3 box-1">
+						    <div class="tabbed-header full">
+						        <div onclick="changeTabIgazolas(&#39;futball_panel_Home&#39;)" id="futball_panel_Home_gomb" class="tabs active" data-title="Labdarúgás igazolások">Labdarúgás igazolások</div>
+                                						    </div>
+
+						    <div class="content futball_panel" id="futball_panel_Home" style="display: block !important">
+						        <div class="">
+                                    <table id="player_igazolas">
+            							<thead>
+            								<tr>
+            									<th>Honnan</th>
+            									<th>Hová</th>
+            									<th>Mettől</th>
+            									<th>Meddig</th>
+            									<th>Igazolás típusa</th>
+            								</tr>
+            							</thead>
+            							<tbody>
+            	                                        								<tr>
+            									<td class="player_igazolas_from"></td>
+            									<td class="player_igazolas_to">LETENYE SE</td>
+            									<td class="player_igazolas_begin">2016. 09. 28.</td>
+            									<td class="player_igazolas_until">.</td>
+            									<td class="player_igazolas_type">Új igazolás</td>
+            								</tr>
+            	                                        							</tbody>
+            						</table>
+						        </div>
+						    </div>
+
+                            						</div>
+
+
+					</div>
+
+                    <script>
+                        $("#perso_stat1_chart").empty();
+                        $("#perso_stat1_chart").drawDoughnutChart([
+                            { title: "Kezdő", value: 3, color: "#00b1cc" },
+                            { title: "Becserélés", value: 37, color: "#c61e29" },
+                            { title: "Kispad", value: 16, color: "#57455b" },
+                        ]);
+                    </script>
+
+             <!--  <div class="player_karrier" id="carrierBoxText">
+					<div class="container_subtitle">Karrier</div>
+					<table id="player_karrier">
+						<thead>
+							<tr>
+								<th>Összes</th>
+								<th>Kezdő</th>
+								<th>Cs<span class="under700">ere</span></th>
+								<th>K<span class="under700">ispad</span></th>
+								<th>G<span class="under700">ól</span></th>
+								<th>Ö<span class="under700">ngól</span></th>
+								<th>S<span class="under700">árga</span></th>
+								<th>P<span class="under700">iros</span></th>
+							</tr>
+							 <tr>
+                                <td>56</td>
+                                <td>3</td>
+                                <td>37</td>
+                                <td>16</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                            </tr>
+						</thead>
+                        <tbody></tbody>
+					</table>
+				</div> -->
+
+            </div>
+
+            <div class="box">
+                                <div class="box_header teszt1">
+                    <span class="box_title">LETENYE SE csapattársak</span>
+                                    </div>
+                <div class="template-content-right float-left non-printable">
+                    <div class="widget teammates">
+                        <div class="content">
+                        	<table id="teammateList">
+                                <tbody><tr>
+                                    <th class="teammateList_nameh">Név</th>
+                                    <th class="teammateList_ageh">Kor</th>
+                                    <!--<th class="teammateList_countryh">Állampolgárság</th>-->
+                                </tr>
+                                                        		<tr>
+                        			<td class="teammateList_name"><a href="https://adatbank.mlsz.hu/player/438913.html" title="CSIZMADIA DÁVID">CSIZMADIA DÁVID</a></td>
+                        			<td class="teammateList_age">17 éves</td>
+                        		<!--	<td class="teammateList_country">magyar</td>-->
+                        		</tr>
+                                                        		<tr>
+                        			<td class="teammateList_name"><a href="https://adatbank.mlsz.hu/player/1173919.html" title="HORVÁTH MARTIN">HORVÁTH MARTIN</a></td>
+                        			<td class="teammateList_age">18 éves</td>
+                        		<!--	<td class="teammateList_country">magyar</td>-->
+                        		</tr>
+                                                        		<tr>
+                        			<td class="teammateList_name"><a href="https://adatbank.mlsz.hu/player/474795.html" title="MÓRICZ GÁBOR">MÓRICZ GÁBOR</a></td>
+                        			<td class="teammateList_age">16 éves</td>
+                        		<!--	<td class="teammateList_country">magyar</td>-->
+                        		</tr>
+                                                        		<tr>
+                        			<td class="teammateList_name"><a href="https://adatbank.mlsz.hu/player/693486.html" title="PÓKECZ-KOVÁCS MÁTÉ">PÓKECZ-KOVÁCS MÁTÉ</a></td>
+                        			<td class="teammateList_age">17 éves</td>
+                        		<!--	<td class="teammateList_country">magyar</td>-->
+                        		</tr>
+                                                        	</tbody></table>
+                        </div>
+                    </div>
+                </div>
+                
+                
+				            </div>
+        </div>
+    </div>
+</div><div class="doughnutTip" style="display: none;"></div>
+
+
+<script>
+    var eerste = $('#statBySeasons');
+    var tweede = $('#carrierBox');
+   // var tweede2 = $('#carrierBoxText');
+
+    eerste.insertAfter(tweede);
+   // eerste.insertAfter(tweede2);
+
+   function changeTabIgazolas(id) {
+	   $("#futball_panel_Home").attr("style", "display: none !important");
+	   $("#futsal_panel_Home").attr("style", "display: none !important");
+	   $("#futball_panel_Home_gomb").removeClass( "active" );
+	   $("#futsal_panel_Home_gomb").removeClass( "active" );
+	   var showId = "#" + id;
+	   var addGombClassId = "#" + id + "_gomb";
+	   $(showId).attr("style", "display: block !important");
+	   $(addGombClassId).addClass("active");
+   }
+
+
+</script>
+
+
+            
+        
+        <div class="clear"></div>
+        <div id="wrapper"></div>
+       <div id="errorPopup" class="form-overlay" style="display: none !important;">
+            <div class="form-overlay-cont">
+                <div class="errorHeader">
+                    <div class="mlszNewLogo" style="background-image: url(&#39;https://adatbank.mlsz.hu/images/mlsz_new_logo_white.png&#39;)"></div>
+                </div>
+                <div class="errorForm">
+                    <div class="form-ol-head">Hibabejelentő</div>
+                    <div class="form-group">
+
+                        <div class="input-group margin-bottom-sm select">
+                            <select id="errorType">
+                                <option value="">Hiba típusa</option>
+                                <option value="1">Adat hiba</option>
+                                <option value="2">Megjelenési hiba</option>
+                                <option value="3">Észrevétel</option>
+                            </select>
+                        </div>
+
+                        <div class="input-group margin-bottom-sm textarea">
+                            <span class="input-group-addon"><i class="fa fa-pencil fa-fw"></i></span>
+                            <textarea class="form-control" id="errorMessage" rows="4"></textarea>
+                            <span class="floating-label">Megjegyzés</span>
+                        </div>
+
+                        <div class="input-group margin-bottom-sm">
+                            <span class="input-group-addon"><i class="fa fa-envelope fa-fw"></i></span>
+                            <input class="form-control" type="text" name="userMail" id="userMail" required="">
+                            <span class="floating-label">E-mail cím</span>
+                        </div>
+
+                        <p id="userErrorMessage">Kérjük töltse ki a fenti mezőket.</p>
+                        <p id="successMessageSend">Köszönjük észrevételét.</p>
+                        <button onclick="sendError()" style="float: left;">Küldés</button>
+                    </div>
+
+                    <div onclick="hidePanel()" class="form-ol-close"><a class="closePopup" style="cursor:pointer;"><span class="ion-close"></span></a></div>
+                    <div style="clear: both;"></div>
+                </div>
+            </div>
+        </div>
+        
+
+        <section id="main-sponsor-title"><div class="container"><div class="row"><h4 class="partner-title text-center">Főszponzoraink</h4></div></div></section>
+        <section class="sponsors">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-xs-12 col-md-12 partner-column">
+                        <ul class="text-center">
+                            <li><a class="partner-link" href="http://www.adidas.com/hu" target="_blank"><img src="./birkas_files/adidas2.png" class="partner-img lazy" alt="Adidas"></a></li>
+                            <li><a class="partner-link" href="http://www.otpbank.hu/" target="_blank"><img src="./birkas_files/otp.png" class="partner-img lazy" alt="OTP Bank"></a></li>
+                            <li><a class="partner-link" href="https://www.tippmixpro.hu/" target="_blank"><img src="./birkas_files/tippmix_RGB.png" class="partner-img lazy" alt="TippMix"></a></li>
+                            <li><a class="partner-link" href="http://mol.hu/hu" target="_blank"><img src="./birkas_files/MOL_logo_2014_ok.png" class="partner-img lazy" alt="MOL"></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- <section id="sub-sponsor-title"><div class="container"><div class="row"><h4 class="partner-title text-center">Szponzoraink</h4></div></div></section>
+        <section class="sponsors">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-xs-12 col-md-12 partner-column small-column">
+                        <ul class="text-center">
+                            <li><a class="partner-link" href="https://www.merkantil.hu" target="_blank"><img src="https://ada1bank.mlsz.hu/meccs-center/img/partners/merkantil_bank.png" class="partner-img" alt="Merkantil Bank"></a></li>
+                            <li><a class="partner-link" href="https://simplepay.hu/" target="_blank"><img src="https://ada1bank.mlsz.hu/meccs-center/img/partners/simple.png" class="partner-img" alt="OTP Simple"></a></li>
+                            <!-- <li><a class="partner-link" href="http://www.groupama.hu" target="_blank"><img src="https://ada1bank.mlsz.hu/meccs-center/img/partners/groupama.png" class="partner-img" alt="Groupama Biztosító"></a></li> -->
+                            <!-- <li><a class="partner-link" href="http://www.foerch.hu" target="_blank"><img src="https://ada1bank.mlsz.hu/meccs-center/img/partners/foerch_logo.png" class="partner-img" alt="Förch"></a></li> -->
+                                                
+                    
+                
+            
+         --&gt;
+
+
+
+        <section class="kozponti-footer-links">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul class="kozponti-footer-contacts">
+                            <li><strong>MLSZ.HU</strong></li>
+                            <li><a href="https://www.mlsz.hu/kapcsolat" target="_BLANK">Kapcsolat</a> |</li>
+                            <li><a href="https://adatvedelem.mlsz.hu/altalanos-adatkezelesi-tajekoztato" target="_BLANK">Adatvédelem</a> |</li>
+                            <li><a href="https://www.mlsz.hu/impresszum" target="_blank">Impresszum</a></li>
+                        </ul>
+                        <ul class="kozponti-footer-social">
+                            <li style="cursor: pointer;" onclick="showErrorPopup()">Hibabejelentő <img src="./birkas_files/felkialtojel.png" class="kozponti-footer-icon lazy"></li>
+                            <li><a href="https://www.facebook.com/magyarlabdarugoszovetseg" target="_blank"><img src="./birkas_files/facebook.png" class="kozponti-footer-icon lazy"></a></li>
+                            <li><a href="https://twitter.com/MLSZhivatalos" target="_blank"><img src="./birkas_files/twitter.png" class="kozponti-footer-icon lazy"></a></li>
+                            <li><a href="https://www.youtube.com/user/MLSZTV" target="_blank"><img src="./birkas_files/youtube.png" class="kozponti-footer-icon lazy"></a></li>
+                            <li><a href="https://www.instagram.com/mlsztv" target="_blank"><img src="./birkas_files/instagram.png" class="kozponti-footer-icon lazy"></a></li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <footer class="kozponti-footer-end">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <p class="text-right">©2022 Magyar Labdarúgó Szövetség | Minden jog fenntartva!</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+                <div id="fancybox-tmp"></div>
+        <div id="fancybox-loading"></div>
+        <div id="fancybox-overlay"></div>
+        <div id="fancybox-wrap">
+            <div id="fancybox-outer">
+                <div class="fancybox-bg" id="fancybox-bg-n"></div>
+                <div class="fancybox-bg" id="fancybox-bg-ne"></div>
+                <div class="fancybox-bg" id="fancybox-bg-e"></div>
+                <div class="fancybox-bg" id="fancybox-bg-se"></div>
+                <div class="fancybox-bg" id="fancybox-bg-s"></div>
+                <div class="fancybox-bg" id="fancybox-bg-sw"></div>
+                <div class="fancybox-bg" id="fancybox-bg-w"></div>
+                <div class="fancybox-bg" id="fancybox-bg-nw"></div>
+                <div id="fancybox-content"></div>
+                <a id="fancybox-close"></a>
+                <div id="fancybox-title"></div>
+                <a href="javascript:;" id="fancybox-left">
+                    <span class="fancy-ico" id="fancybox-left-ico"></span>
+                </a>
+                <a href="javascript:;" id="fancybox-right">
+                    <span class="fancy-ico" id="fancybox-right-ico"></span>
+                </a>
+            </div>
+        </div>
+
+    <script type="text/javascript" src="./birkas_files/jquery.lazy.min.js.letöltés"></script>
+    <script type="text/javascript" src="./birkas_files/jquery.lazy.plugins.min.js.letöltés"></script>
+
+    <script language="JavaScript">
+        $(window).resize(function() {
+            if ($('#mobile-nav').hasClass('opened')) {
+                $('#mobile-nav').removeClass("opened");
+                $('body').removeClass('navopened');
+            };
+            if ($('#mobile-search').hasClass('opened')) {
+                $('#mobile-search').removeClass("opened");
+                $('body').removeClass('navopened');
+            };
+            if ($('.dropdown').hasClass('open')) {
+                $('.dropdown').removeClass("open");
+                $('body').removeClass('navopened');
+            };
+        });
+        $('#mobile-nav-btn').bind('click', function() {
+            $('#mobile-nav').addClass("opened");
+            $('.navbar-top-links').addClass("stuck");
+            setTimeout(function(){$('body').addClass('navopened');}, 700);
+        });
+        $('#mobile-nav-close').bind('click', function() {
+            $('#mobile-nav').removeClass("opened");
+            $('.navbar-top-links').removeClass("stuck");
+            $('body').removeClass('navopened');
+        });
+        $('#nav-search-mobile').bind('click', function() {
+            if ($('#mobile-nav').hasClass('opened')) {
+                $('#mobile-nav').removeClass("opened");
+            };
+            $('#mobile-search').addClass("opened");
+        });
+        $('#mobile-search-close').bind('click', function() {
+            $('#mobile-search').removeClass("opened");
+        });
+        $(document).ready(function() {
+            $('ul.dropdown-menu [data-toggle=dropdown]').on('click touchstart', function(event) {
+                event.preventDefault();
+                event.stopPropagation();
+                $(this).parent().siblings().removeClass('open');
+                $(this).parent().toggleClass('open');
+            });
+        });
+        $(window).scroll(function() {
+            if ($(window).scrollTop() > 35) {
+                $('.navbar').addClass('stuck');
+            } else {
+                $('.navbar').removeClass('stuck');
+            }
+        });
+
+        $("iframe").addClass("lazy");
+        $("img").addClass("lazy");
+        $('.lazy').Lazy();
+    </script>
+
+
+
+</body></html>
