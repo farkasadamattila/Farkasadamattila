@@ -48,6 +48,7 @@ size: 10px;
     text-decoration: underline;
     text-decoration-color: white;
    font-style: oblique;
+   text-size-adjust: 20px;
   
 
 
@@ -57,6 +58,14 @@ size: 10px;
 text-decoration-line: underline;
 text-decoration-color:white;
 
+}
+.szereplok{
+text-decoration-line: underline;
+text-decoration-color: white;
+}
+.altair{
+    padding-top: 20px;
+    padding-left: 50px;
 }
 
 
