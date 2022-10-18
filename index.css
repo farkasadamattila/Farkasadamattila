@@ -4,7 +4,7 @@
     border-width: 10px;
     border-top: 10px;
     border-radius: 20px;
-    border-style: inset;
+    border-style: solid;
     border-top-color: red;
     border-bottom-color:red;
     border-right-color: red;
@@ -64,8 +64,7 @@ text-decoration-line: underline;
 text-decoration-color: white;
 }
 .altair{
-    padding-top: 20px;
-    padding-left: 50px;
+    padding: 50px 20px;
 }
 
 
