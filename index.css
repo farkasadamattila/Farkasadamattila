@@ -20,9 +20,13 @@ border-top-left-radius: 33px;
 border-top-right-radius: 33px;
 width: fit-content;
 padding: 15px;
+transition: ease-in-out 0.3s;
 
 
-
+}
+.doboz:hover{
+    transition: ease-in-out 0.3s;
+    box-shadow: 0px 0px 10px 0px red, 0px 0px 20px 0px red;
 }
 body{
     background-color:rgb(0, 0, 0);
@@ -48,7 +52,7 @@ size: 10px;
     text-decoration: underline;
     text-decoration-color: white;
    font-style: oblique;
-   text-size-adjust: 20px;
+   font-size: 30px;
   
 
 
@@ -66,7 +70,20 @@ text-decoration-color: white;
 .altair{
     padding: 50px 20px;
 }
+.kozep
+{
+    text-align: center;
+}
+.kephover
+{
+    transition: ease-in-out 0.3;
+}
+.kephover:hover
+{
+    transition: ease-in-out 0.3;
+    scale: 200%;
+}
+.cim {
 
-
-
+}
 
