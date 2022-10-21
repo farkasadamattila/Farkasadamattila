@@ -73,6 +73,7 @@ text-decoration-color: white;
 .kozep
 {
     text-align: center;
+    
 }
 .kephover
 {
@@ -86,4 +87,6 @@ text-decoration-color: white;
 .cim {
 
 }
-
+td{
+  padding-left: 20px;  
+}
