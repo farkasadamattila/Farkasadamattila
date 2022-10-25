@@ -14,15 +14,15 @@
     border-right-width:5px;
     border-left-width: 5px;
     text-align: center;
-border-bottom-right-radius: 33px;
-border-bottom-left-radius: 33px;
-border-top-left-radius: 33px;
-border-top-right-radius: 33px;
-width: fit-content;
-padding: 15px;
-transition: ease-in-out 0.3s;
-
-
+    border-bottom-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    width: fit-content;
+    padding: 15px;
+    transition: ease-in-out 0.3s;
+    margin: auto;
+    margin-bottom: 10px;
 }
 .doboz:hover{
     transition: ease-in-out 0.3s;
@@ -67,8 +67,9 @@ text-decoration-color:white;
 text-decoration-line: underline;
 text-decoration-color: white;
 }
-.altair{
+.kepek{
     padding: 50px 20px;
+    margin: auto;
 }
 .kozep
 {
