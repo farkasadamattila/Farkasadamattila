@@ -93,8 +93,9 @@ td{
 }
 
 .footertable {
+    background-color: black;
     width: 100%;
-    bottom: 0.2%;
+    bottom: 0px;
     left: 0;
     right: 0;
     position: fixed;
@@ -103,6 +104,7 @@ td{
     font-size: 24px;
     border: 5px solid rgb(0, 0, 0);
     border-bottom: hidden;
+    
 }
 
 .footerleft {
@@ -115,6 +117,9 @@ td{
 
 .footermid {
     width: 33%;
+    
+    
+    
     
 
 }
