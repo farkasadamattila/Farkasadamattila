@@ -1,23 +1,12 @@
 
 .doboz{
     background-color: rgb(0, 0, 0);
-    border-width: 10px;
     border-top: 10px;
-    border-radius: 20px;
     border-style: solid;
-    border-top-color: red;
-    border-bottom-color:red;
-    border-right-color: red;
-    border-left-color:red;
-    border-top-width: 5px;
-    border-bottom-width:5px;
-    border-right-width:5px;
-    border-left-width: 5px;
+    border-color:red;
+    border-width:5px;
     text-align: center;
-    border-bottom-right-radius: 33px;
-    border-bottom-left-radius: 33px;
-    border-top-left-radius: 33px;
-    border-top-right-radius: 33px;
+    border-radius:33px;
     width: fit-content;
     padding: 15px;
     transition: ease-in-out 0.3s;
@@ -31,6 +20,10 @@
 body{
     background-color:rgb(0, 0, 0);
     color:white;
+    background-image: url(images/talanhatter.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:auto;
     
 }
 .bgimage
