@@ -12,6 +12,8 @@
     transition: ease-in-out 0.3s;
     margin: auto;
     margin-bottom: 10px;
+    font-size: 50px;
+    margin-top: 30px;
 }
 .doboz:hover{
     transition: ease-in-out 0.3s;
@@ -20,7 +22,7 @@
 body{
     background-color:rgb(0, 0, 0);
     color:white;
-    background-image: url(images/talanhatter.jpg);
+
     background-repeat: no-repeat;
     background-size: cover;
     margin:auto;
@@ -45,7 +47,7 @@ size: 10px;
     text-decoration: underline;
     text-decoration-color: white;
    font-style: oblique;
-   font-size: 30px;
+   font-size: 50px;
   
 
 
@@ -82,7 +84,8 @@ text-decoration-color: white;
 
 }
 td{
-  padding-left: 20px;  
+  padding-left: 20px;
+  font-size: 40px;  
 }
 
 .footertable {
@@ -97,7 +100,7 @@ td{
     font-size: 24px;
     border: 5px solid rgb(0, 0, 0);
     border-bottom: hidden;
-    
+    position: fixed
 }
 
 .footerleft {
