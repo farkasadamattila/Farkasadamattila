@@ -65,17 +65,19 @@ body{
 .kozep
 {
     text-align: center;
-    font-size: 30px;
-    
+    font-size: 25px;
+    padding-left: 20px;
 }
 .kephover
 {
-    transition: ease-in-out 0.3;
+    transition: ease-in-out 0.3;    
+    width: 200px;
+    height: 200px;
 }
 .kephover:hover
 {
     transition: ease-in-out 0.3;
-    scale: 200%;
+    scale: 150%;
 }
 
 td{
@@ -147,4 +149,8 @@ a {
     text-align: center;
     font-size: 30px;
     font-family: fantasy;
+}
+
+.szereplokneve{
+    text-align: center;
 }
