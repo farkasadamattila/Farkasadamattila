@@ -47,11 +47,8 @@ body{
     text-decoration-color: white;
     font-style: oblique;
     font-size: 50px;
-  
+  }
 
-
-
-}
 .dátum{
     text-decoration-line: underline;
     text-decoration-color:white;
@@ -82,8 +79,8 @@ body{
 }
 
 td{
-  padding-left: 20px;
-  font-size: 60px;  
+    padding-left: 20px;
+    font-size: 60px;  
 }
 
 li{
@@ -117,6 +114,7 @@ li{
     width: 33%;
     font-size: 20px;
     }
+
 a {
     color: rgb(255, 255, 255);
 }
@@ -130,17 +128,17 @@ a {
 }
 
 #fonti{
-padding-top: 30px;
-background-color:rgba(0,0,0,0);
-height: 30px;
-text-align: center;
+    padding-top: 30px;
+    background-color:rgba(0,0,0,0);
+    height: 30px;
+    text-align: center;
 }
 
 .fonti2{
 
 
-padding: 10px;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 
 }
