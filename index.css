@@ -14,6 +14,8 @@
     margin-bottom: 10px;
     font-size: 50px;
     margin-top: 30px;
+   color:rgb(255, 255, 255)
+    
 }
 .doboz:hover{
     transition: ease-in-out 0.3s;
@@ -71,8 +73,8 @@ body{
 .kephover
 {
     transition: ease-in-out 0.3;    
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 300px;
 }
 .kephover:hover
 {
@@ -153,4 +155,12 @@ a {
 
 .szereplokneve{
     text-align: center;
+}
+
+div{
+    text-align: center
+}
+
+.linkkep{
+    width: 100px;
 }
