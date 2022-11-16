@@ -1,9 +1,7 @@
 
 .doboz{
     background-color:rgba(0,0,0,0);
-    border-top: ;
-    border-style: solid;
-    border-color:white;
+    border:solid white ;
     border-width:5px;
     text-align: center;
     border-radius: 32px;
@@ -14,7 +12,7 @@
     margin-bottom: 10px;
     font-size: 50px;
     margin-top: 30px;
-   color:rgb(255, 255, 255)
+    color:rgb(255, 255, 255)
     
 }
 .doboz:hover{
@@ -69,6 +67,7 @@ body{
     text-align: center;
     font-size: 25px;
     padding-left: 20px;
+    font-style: italic;
 }
 .kephover
 {
@@ -91,34 +90,6 @@ li{
     font-size: 20px;
 }
 
-.footertable {
-    background-color: black;
-    width: 100%;
-    bottom: 0px;
-    left: 0;
-    right: 0;
-    position: fixed;
-    margin: 20px 0 0 0;
-    text-align: center;
-    font-size: 24px;
-    border: 5px solid rgb(0, 0, 0);
-    border-bottom: hidden;
-    position: fixed
-}
-
-.footerleft {
-    width: 33%;
-    padding-left: 5px;
-    text-align: left;
-    font-size: 24px;
-    
-}
-
-.footermid {
-    width: 33%;
-    font-size: 20px;
-    }
-
 a {
     color: rgb(255, 255, 255);
 }
@@ -139,12 +110,8 @@ a {
 }
 
 .fonti2{
-
-
     padding: 10px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
-
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 .fop{
@@ -155,6 +122,7 @@ a {
 
 .szereplokneve{
     text-align: center;
+    font-weight: bold;
 }
 
 div{
