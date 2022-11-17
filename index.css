@@ -1,5 +1,6 @@
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .doboz
 {
     border-style    :solid;
@@ -44,11 +45,19 @@ text-decoration-color:white;
 text-decoration-line:underline;
 text-decoration-color:white;
 =======
+=======
+body{
+    background-color:rgb(0, 0, 0);
+    color:white;
+    background-image: url(images/blurry-gradient-haikei.png);
+    background-size: cover;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+>>>>>>> 34cfcaa6028783bcbb7abee16aa13aacdbe7c25c
 .doboz{
     background-color:rgba(0,0,0,0);
-    border-top: ;
-    border-style: solid;
-    border-color:white;
+    border:solid white ;
     border-width:5px;
     text-align: center;
     border-radius: 32px;
@@ -59,20 +68,16 @@ text-decoration-color:white;
     margin-bottom: 10px;
     font-size: 50px;
     margin-top: 30px;
+    color:rgb(255, 255, 255)
+    
 }
 .doboz:hover{
     transition: ease-in-out 0.3s;
     box-shadow: 0px 0px 10px 0px rgb(255, 255, 255), 0px 0px 20px 0px rgb(255, 255, 255);
 }
-body{
-    background-color:rgb(0, 0, 0);
-    color:white;
 
-    background-image: url(images/blurry-gradient-haikei.png);
-    background-size: cover;
-    margin:0;
     
-}
+
 .bgimage
 {
     width: 100%;
@@ -143,12 +148,13 @@ li
     text-align: center;
     font-size: 25px;
     padding-left: 20px;
+    font-style: italic;
 }
 .kephover
 {
     transition: ease-in-out 0.3;    
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 300px;
 }
 .kephover:hover
 {
@@ -158,8 +164,12 @@ li
 
 td{
     padding-left: 20px;
+<<<<<<< HEAD
     font-size: 60px;  
 >>>>>>> 1521343ade3519c9636cc711bee21c606d45f74f
+=======
+    font-size: 20px;  
+>>>>>>> 34cfcaa6028783bcbb7abee16aa13aacdbe7c25c
 }
 
 .footertable
@@ -178,6 +188,7 @@ td{
     position        :fixed
 }
 
+<<<<<<< HEAD
 .footerleft
 {
     width           :33%;
@@ -198,6 +209,8 @@ td{
     font-size: 20px;
     }
 
+=======
+>>>>>>> 34cfcaa6028783bcbb7abee16aa13aacdbe7c25c
 a {
     color: rgb(255, 255, 255);
 >>>>>>> 1521343ade3519c9636cc711bee21c606d45f74f
@@ -242,12 +255,8 @@ a
 }
 
 .fonti2{
-
-
     padding: 10px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
-
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 .fop{
@@ -258,5 +267,22 @@ a
 
 .szereplokneve{
     text-align: center;
+<<<<<<< HEAD
 >>>>>>> 1521343ade3519c9636cc711bee21c606d45f74f
 }
+=======
+    font-weight: bold;
+}
+
+div{
+    text-align: center
+}
+
+.linkkep{
+    width: 100px;
+}
+
+.elotori{
+    font-size: 30px;
+}
+>>>>>>> 34cfcaa6028783bcbb7abee16aa13aacdbe7c25c
