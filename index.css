@@ -1,234 +1,127 @@
 body{
-    background-color:rgb(0, 0, 0);
-    color:white;
-    background-image: url(images/blurry-gradient-haikei.png);
-    background-size: cover;
-    margin-left: 15px;
-    margin-right: 15px;
+    background-color:          rgb(0, 0, 0);
+    color:                     white;
+    background-image:          url(images/blurry-gradient-haikei.png);
+    background-size:           cover;
+    margin:                    0 15 0 15 px;
 }
 
-
-.doboz
-{
-    border-style    :solid;
-    border-width    :5px;
-    border-radius   :32px;
-    width           :fit-content;
-    padding         :15px;
-    transition      :ease-in-out 0.3s;
-    margin          :auto;
-    margin-bottom   :10px;
-    font-size       :50px;
-    margin-top      :30px;
-}
-.doboz:hover
-{
-    transition      :ease-in-out 0.3s;
-    box-shadow      :0px 0px 10px 0px rgb(255, 255, 255), 0px 0px 20px 0px rgb(255, 255, 255);
-}
-
-
-
-.AC
-{
-    color           :white;
-    text-decoration     :underline;
-    text-decoration-color:white;
-    font-style       :oblique;
-    font-size        :50px;
-}
 .dátum
 {
-    text-decoration-line:underline;
-    text-decoration-color:white;
+    text-decoration-line:      underline;
+    text-decoration-color:     white;
 }
 
 .doboz{
-    background-color:rgba(0,0,0,0);
-    border:solid white ;
-    border-width:5px;
-    text-align: center;
-    border-radius: 32px;
-    width: fit-content;
-    padding: 15px;
-    transition: ease-in-out 0.3s;
-    margin: auto;
-    margin-bottom: 10px;
-    font-size: 50px;
-    margin-top: 30px;
-    color:rgb(255, 255, 255)
-    
-}
-.doboz:hover{
-    transition: ease-in-out 0.3s;
-    box-shadow: 0px 0px 10px 0px rgb(255, 255, 255), 0px 0px 20px 0px rgb(255, 255, 255);
+    background-color:          rgba(0,0,0,0);
+    border:                    solid white ;
+    text-align:                center;
+    border-width:              5px;
+    border-radius:             33px;
+    width:                     fit-content;
+    padding:                   15px;
+    transition: ease-in-out    0.3s;
+    margin:                    auto;
+    margin-bottom:             10px;
+    font-size:                 50px;
+    margin-top:                30px;
+    color:                    rgb(255, 255, 255)
 }
 
-    
-
-.bgimage
+.doboz:hover
 {
-    width: 100%;
-    height: 100%;
-    background-repeat: no-repeat;
-    filter: blur(8px);           
-    background-position: center;
-    background-size: cover;
+    transition:                ease-in-out 0.3s;
+    box-shadow:                0px 0px 10px 0px rgb(255, 255, 255), 0px 0px 20px 0px rgb(255, 255, 255);
 }
-.kep{
-    size: 10px;
 
-}
-.AC{
-    color: white;
-    text-decoration: underline;
-    text-decoration-color: white;
-    font-style: oblique;
-    font-size: 15px;
-  }
+.kozep
+    {
+    text-align:                center;
+    font-size:                 30px;
+    font-weight: bold;
+     }
+.datum{
+    text-decoration-line:      underline;
+    text-decoration-color:     white;
 
-.dátum{
-    text-decoration-line: underline;
-    text-decoration-color:white;
-
-}
-.szereplok{
-    text-decoration-line: underline;
-    text-decoration-color: white;
-
-}
-.szereplok
-{
-    text-decoration-line:underline;
-    text-decoration-color:white;
 }
 .kepek
 {
-    padding         :50px 20px;
-    margin          :auto;
-}
-.kozep
-{
-
-    text-align      :center;
-    font-size       :30px;
-    
-}
-.kephover
-{
-    transition      :ease-in-out 0.3;
-}
-.kephover:hover
-{
-    transition      :ease-in-out 0.3;
-    scale           :200%;
+    padding:                   50px 20px;
+    margin:                    auto;
 }
 td
 {
-    padding-left      :20px;
-    font-size         :60px;  
+    padding-left:              20px;
+    font-size:                 60px;  
 }
 
 li
 {
-    text-align: left;
-    font-size: 15px;
-    padding-left: 20px;
-    font-style: italic;
+    text-align:                left;
+    font-size:                 15px;
+    padding-left:              20px;
 }
 .kephover
 {
-    transition: ease-in-out 0.3s;    
-    width: 250px;
-    height: 300px;
-    border-radius: 33px;
+    transition: ease-in-out    0.3s;    
+    width:                     250px;
+    height:                    300px;
+    border-radius:             33px;
+    border:                    3px black solid;
 }
 .kephover:hover
 {
-    transition:ease-in-out 0,3s ;
-    scale: 150%;
+    transition:ease-in-out     0,3s ;
+    scale:                     150%;
    
-}
-
-td{
-    padding-left: 20px;
-    font-size: 60px;  
-    font-size: 20px;  
-}
-
-a {
-    color: rgb(255, 255, 255);
-
 }
 a
 {
-    color           :rgb(255, 255, 255);
+    color:                     rgb(255, 255, 255);
 }
-.footerright
+#fop
 {
-    width           :33%;
-    padding-right   :5px;
-    text-align      :right;
-    font-size       :24px;
-    
-}
-
-#fonti
-{
-    padding-top     :30px;
-    background-color:rgba(0,0,0,0);
-    height          :30px;
-    text-align      :center;
-}
-.fonti2
-{
-    padding         :10px;
-    font-family     :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-.fop
-{
-    text-align      :center;
-    font-size       :30px;
-    font-family     :fantasy;
+    text-align:                center;
+    font-size:                 30px;
+    font-family:               'Times New Roman', Times, serif
 }
 
 #fonti{
-    padding-top: 30px;
-    background-color:rgba(0,0,0,0);
-    height: 30px;
-    text-align: center;
+    padding-top:               30px;
+    background-color:        rgba(0,0,0,0);
+    height:                    30px;
+    text-align:                center;
 }
 
 .fonti2{
-    padding: 10px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    padding:                   10px;
+    font-family:               'Courier New', Courier, monospace
+}
+.linkkep{
+    width:                     100px;
+    margin-left:               700px;
+}
+#openworld{
+    font-style:                italic;
+}
+#velemeny{
+    font-size:                 20px; 
+    padding-right:             1000px;
 }
 
-.fop{
-    text-align: center;
-    font-size: 30px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+#hb{
+    height:                    500px;
+    width:                     800px;
+    float:                     right;
+    margin-bottom:             0px;
+}
+#tori{
+    color:                    white;
+    font-size:                 15px;
+
 }
 
 .szereplokneve{
-    text-align: center;
-    font-weight: bold;
-}
-    
-
-
-div{
-    text-align: center
-}
-
-.linkkep{
-    width: 100px;
-}
-
-.elotori{
-    font-size: 30px;
-}
-
-#openworld{
-    font-style: italic;
+    text-align:                center;
 }
