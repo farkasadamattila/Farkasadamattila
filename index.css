@@ -10,7 +10,8 @@ body
 td
 {
     padding-left:              20px;
-    font-size:                 20px;  
+    font-size:                 20px;
+  
 }
 
 li
@@ -27,6 +28,7 @@ a
 
 th{
     font-size: 20px;
+    background-color: black;
 }
 
 .dátum
@@ -62,7 +64,7 @@ th{
 {
     text-align:                center;
     font-size:                 30px;
-    font-weight: bold;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .kepek
@@ -83,13 +85,13 @@ th{
 .kephover:hover
 {
     transition:ease-in-out     0,3s ;
-    scale:                     105%;  
+    scale:                     95%;  
 }
 
 .fonti2
 {
     padding:                   10px;
-    font-family:               'Courier New', Courier, monospace
+    font-family:               Arial, Helvetica, sans-serif
 }
 
 .linkkep
@@ -108,6 +110,8 @@ th{
     border-collapse: collapse;
     float:right ;
     margin-right: 20px;
+    margin-left: 20PX;
+    margin-top: 20px;
 }
 
 .tablazat td{
@@ -153,8 +157,8 @@ th{
     float:                     right;
     margin-bottom:             0px;
     margin-right:              60px;
-    border:                    3px black solid;
-    margin-top: 25px;
+    border:                    4px black solid;
+    margin-top: 30px;
 
 }
 
@@ -171,44 +175,16 @@ th{
     text-decoration-color:     white;
 }
 
-#altairszoveg{
+.szoveg{
     font-size: 20px;
-margin-left: 50px;
-margin-right: 400px;
+    margin-left: 45px;
+    margin-right: 60px;
     text-align: justify;
+    margin-top: 50px;
 }
 
-.gallery{
-    margin: 25px;
-    float: left;
-    width: 250px;
-    color:rgba(255, 255, 255, 0);
-    border: 1px solid rgba(0, 0, 0, 0);
-    background-color: rgba(0, 0, 0, 0);
-    transition:ease-in-out 0.3s;
-    box-shadow: 0px 0px 10px 0px rgb(0, 0, 0), 0px 0px 20px 0px rgb(0, 0, 0);
-
-}
-.gallery:hover{
-    border: 1px solid rgba(0, 0, 0, 0.472);
-    color:rgb(255, 255, 255);
-    transition:ease-in-out 0.3s;
-    background-color:rgba(0, 0, 0, 0.361);
-}
-.desc{
-    padding: 8px;
-    text-align: center;
-    font-size:25px;
-    transition:ease-in-out 0.3s;
-    cursor:default;
+.nemakepe{
+    background-color: rgb(44, 44, 44);  
 }
 
-.gallery img {
-    width: 100%;
-    height: auto;
-    color:rgba(255, 255, 255, 0);
-  }
 
-.gallery img:hover{
-    color:white;
-}
