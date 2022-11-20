@@ -10,19 +10,23 @@ body
 td
 {
     padding-left:              20px;
-    font-size:                 60px;  
+    font-size:                 20px;  
 }
 
 li
 {
     text-align:                left;
-    font-size:                 15px;
+    font-size:                 20px;
     padding-left:              20px;
 }
 
 a
 {
     color:                     rgb(255, 255, 255);
+}
+
+th{
+    font-size: 20px;
 }
 
 .dátum
@@ -79,7 +83,7 @@ a
 .kephover:hover
 {
     transition:ease-in-out     0,3s ;
-    scale:                     150%;  
+    scale:                     105%;  
 }
 
 .fonti2
@@ -97,6 +101,19 @@ a
 .szereplokneve
 {
     text-align:                center;
+}
+
+.tablazat{
+    border: 5px solid black;
+    border-collapse: collapse;
+    float:right ;
+    margin-right: 20px;
+}
+
+.tablazat td{
+    border:5px solid black ;
+    border-collapse: collapse;
+    
 }
 
 #fop
@@ -123,6 +140,10 @@ a
 {
     font-size:                 20px; 
     padding-right:             1000px;
+    margin-top:                50px;
+    margin-left:               60px;
+    text-align:                justify;
+    
 }
 
 #hb
@@ -131,12 +152,16 @@ a
     width:                     800px;
     float:                     right;
     margin-bottom:             0px;
+    margin-right:              60px;
+    border:                    3px black solid;
+    margin-top: 25px;
+
 }
 
 #tori
 {
     color:                     white;
-    font-size:                 15px;
+    font-size:                 20px;
 
 }
 
@@ -144,4 +169,46 @@ a
 {
     text-decoration-line:      underline;
     text-decoration-color:     white;
+}
+
+#altairszoveg{
+    font-size: 20px;
+margin-left: 50px;
+margin-right: 400px;
+    text-align: justify;
+}
+
+.gallery{
+    margin: 25px;
+    float: left;
+    width: 250px;
+    color:rgba(255, 255, 255, 0);
+    border: 1px solid rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+    transition:ease-in-out 0.3s;
+    box-shadow: 0px 0px 10px 0px rgb(0, 0, 0), 0px 0px 20px 0px rgb(0, 0, 0);
+
+}
+.gallery:hover{
+    border: 1px solid rgba(0, 0, 0, 0.472);
+    color:rgb(255, 255, 255);
+    transition:ease-in-out 0.3s;
+    background-color:rgba(0, 0, 0, 0.361);
+}
+.desc{
+    padding: 8px;
+    text-align: center;
+    font-size:25px;
+    transition:ease-in-out 0.3s;
+    cursor:default;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+    color:rgba(255, 255, 255, 0);
+  }
+
+.gallery img:hover{
+    color:white;
 }
