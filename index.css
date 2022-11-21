@@ -149,7 +149,7 @@ th{
 
 #velemeny
 {
-    font-size:                 28px; 
+    font-size:                 27px; 
     padding-right:             1000px;
     margin-top:                150px;
     margin-left:               60px;
@@ -173,8 +173,8 @@ th{
 {
     color:                     white;
     font-size:                 40px;
-margin-left: 1400px;
-   text-align:  justify;
+
+   text-align:  center;
 }
 
 #datum
@@ -206,9 +206,8 @@ margin-left: 1400px;
 
 #tor{
     font-size: 20px;
-    text-align: justify;
-    margin-left: 90px;
-    text-align: center;
+    text-align: left;
+    margin-top: 200px;
 }
 
 #jatek{
@@ -216,12 +215,13 @@ margin-left: 1400px;
     
 }
 
-.video{
-    float: right;
- margin-right: 300px;
- margin-top: 200px;
-}
 
-ul{
-   margin-bottom: ;
+
+
+#lof{
+    float: right;
+    width: 500px;
+    height: 500px;
+    margin-right: 100px;
+    border:                    3px black solid;
 }
