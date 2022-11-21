@@ -19,8 +19,8 @@ li
     text-align:                left;
     font-size:                 35px;
     padding-left:              20px;
-}
 
+}
 a
 {
     color:                     rgb(255, 255, 255);
@@ -173,7 +173,8 @@ th{
 {
     color:                     white;
     font-size:                 40px;
-
+margin-left: 1400px;
+   text-align:  justify;
 }
 
 #datum
@@ -199,17 +200,28 @@ th{
     text-decoration: none;
     color: black;
     border: 2px black solid;
-    font-size: 40px;
+    font-size: 20px;
+    text-align: center;
 }
 
 #tor{
-    font-size: 40px;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 90px;
+    text-align: center;
 }
 
 #jatek{
     font-weight: bold;
+    
 }
 
 .video{
     float: right;
+ margin-right: 300px;
+ margin-top: 200px;
+}
+
+ul{
+   margin-bottom: ;
 }
