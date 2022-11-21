@@ -10,7 +10,7 @@ body
 td
 {
     padding-left:              20px;
-    font-size:                 35px;
+    font-size:                 20px;
   
 }
 
@@ -27,7 +27,7 @@ a
 }
 
 th{
-    font-size:                 20px;
+    font-size:                 35px;
     background-color:          black;
 }
 
@@ -159,7 +159,7 @@ th{
 
 #hb
 {
-    height:                    500px;
+    height:                    520px;
     width:                     800px;
     float:                     right;
     margin-bottom:             0px;
@@ -186,8 +186,8 @@ th{
 
 .szoveg{
     font-size:                 25px;
-    margin-left:               45px;
-    margin-right:              60px;
+    margin-left:               25px;
+    margin-right:              80px;
     text-align:                justify;
     margin-top:                50px;
 }
@@ -199,15 +199,16 @@ th{
 .kicsitmas{
     text-decoration: none;
     color: black;
-    border: 2px black solid;
+  font-weight: bold;
     font-size: 20px;
     text-align: center;
+   
 }
 
 #tor{
     font-size: 20px;
     text-align: left;
-    margin-top: 200px;
+   margin-top: 150px;
 }
 
 #jatek{
@@ -221,7 +222,11 @@ th{
 #lof{
     float: right;
     width: 500px;
-    height: 500px;
+    height: 475px;
     margin-right: 100px;
     border:                    3px black solid;
+}
+ 
+.alahuz{
+    text-decoration: underline;
 }
