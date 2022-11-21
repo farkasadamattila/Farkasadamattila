@@ -10,14 +10,14 @@ body
 td
 {
     padding-left:              20px;
-    font-size:                 20px;
+    font-size:                 35px;
   
 }
 
 li
 {
     text-align:                left;
-    font-size:                 20px;
+    font-size:                 35px;
     padding-left:              20px;
 }
 
@@ -49,9 +49,10 @@ th{
     transition: ease-in-out    0.3s;
     margin:                    auto;
     margin-bottom:             10px;
-    font-size:                 50px;
+    font-size:                 80px;
     margin-top:                30px;
-    color:                     rgb(255, 255, 255)
+    color:                     rgb(255, 255, 255);
+    margin-top:                100px;
 }
 
 .doboz:hover
@@ -64,7 +65,7 @@ th{
 {
     text-align:                center;
     font-size:                 30px;
-   font-family:                Arial, Helvetica, sans-serif
+    font-family:                Arial, Helvetica, sans-serif
 }
 
 .kepek
@@ -76,10 +77,12 @@ th{
 .kephover
 {
     transition: ease-in-out    0.3s;    
-    width:                     250px;
-    height:                    300px;
+    width:                     300px;
+    height:                    400px;
     border-radius:             33px;
     border:                    3px black solid;
+    margin-top:                150px;
+ 
 }
 
 .kephover:hover
@@ -91,18 +94,22 @@ th{
 .fonti2
 {
     padding:                   10px;
-    font-family:               Arial, Helvetica, sans-serif
+    font-family:               Arial, Helvetica, sans-serif;
+    font-size: 30px;
 }
 
 .linkkep
 {
     width:                     100px;
-    margin:                    auto;
+    margin-left: 900px;
+    margin-top: 15px;
+    
 }
 
 .szereplokneve
 {
     text-align:                center;
+    margin-top: 100px;
 }
 
 .tablazat{
@@ -123,7 +130,7 @@ th{
 #fop
 {
     text-align:                center;
-    font-size:                 30px;
+    font-size:                 50px;
     font-family:               'Times New Roman', Times, Arial, Helvetica, sans-serif
 }
 
@@ -142,9 +149,9 @@ th{
 
 #velemeny
 {
-    font-size:                 20px; 
+    font-size:                 27px; 
     padding-right:             1000px;
-    margin-top:                50px;
+    margin-top:                149px;
     margin-left:               60px;
     text-align:                justify;
     
@@ -158,14 +165,14 @@ th{
     margin-bottom:             0px;
     margin-right:              60px;
     border:                    4px black solid;
-    margin-top:                30px;
+    margin-top:                135px;
 
 }
 
 #tori
 {
     color:                     white;
-    font-size:                 20px;
+    font-size:                 40px;
 
 }
 
@@ -173,10 +180,11 @@ th{
 {
     text-decoration-line:      underline;
     text-decoration-color:     white;
+    font-size: 40px;
 }
 
 .szoveg{
-    font-size:                 20px;
+    font-size:                 25px;
     margin-left:               45px;
     margin-right:              60px;
     text-align:                justify;
@@ -187,4 +195,18 @@ th{
     background-color:          rgb(44, 44, 44);  
 }
 
+.kicsitmas{
+    text-decoration: none;
+    color: black;
+    border: 2px black solid;
+    font-size: 40px;
+}
+
+#tor{
+    font-size: 40px;
+}
+
+#jatek{
+    font-weight: bold;
+}
 
