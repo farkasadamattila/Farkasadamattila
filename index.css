@@ -149,9 +149,9 @@ th{
 
 #velemeny
 {
-    font-size:                 27px; 
+    font-size:                 28px; 
     padding-right:             1000px;
-    margin-top:                149px;
+    margin-top:                150px;
     margin-left:               60px;
     text-align:                justify;
     
@@ -210,3 +210,6 @@ th{
     font-weight: bold;
 }
 
+.video{
+    float: right;
+}
