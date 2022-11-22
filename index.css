@@ -27,6 +27,7 @@ a
 {
     color:                     rgb(255, 255, 255);
     text-decoration: none;
+
 }
 
 th{
@@ -106,7 +107,7 @@ th{
 {
     width:                     100px;
     margin-left: 900px;
-    margin-top: 15px;
+    margin-top: 35px;
     
 }
 
@@ -202,7 +203,7 @@ th{
 }
 
 .kicsitmas{
-    text-decoration: none;
+    text-decoration: underline;
     color: black;
   font-weight: bold;
     font-size: 20px;
@@ -234,7 +235,7 @@ th{
 }
  
 .alahuz{
-    text-decoration: underline;
+ text-decoration: underline;
  font-size:30px ;
 }
 
