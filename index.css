@@ -18,7 +18,7 @@ td
 li
 {
     text-align:                left;
-    font-size:                 35px;
+    font-size:                 40px;
     padding-left:              20px;
     
 
@@ -26,7 +26,7 @@ li
 a
 {
     color:                     rgb(255, 255, 255);
-    text-decoration: underline 2px;
+    text-decoration: none;
 }
 
 th{
@@ -178,7 +178,7 @@ th{
     color:                     white;
     font-size:                 40px;
 
-   text-align:  center;
+   text-align:  left;
 }
 
 #datum
@@ -212,7 +212,7 @@ th{
 #tor{
     font-size: 20px;
     text-align: left;
-   
+   margin-top: 95px;
 }
 
 #jatek{
@@ -226,17 +226,26 @@ th{
 #lof{
     float: right;
     width: 500px;
-    height: 475px;
-    margin-right: 100px;
+    height: 557px;
+    margin-right: 300px;
     border:                    3px black solid;
-    ;
+    
 }
  
 .alahuz{
     text-decoration: underline;
-    border-right: solid black;
+ font-size:30px ;
 }
 
-#lejjebb{
-    margin-top: 400px;
+
+
+header{
+    border-bottom: solid ;
+    padding-bottom: 20px;
+}
+
+#jobbra{
+    text-align: right;
+    font-size: 30px;
+    text-align: center;
 }
