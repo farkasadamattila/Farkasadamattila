@@ -1,3 +1,4 @@
+
 body
 {
     background-color:          rgb(0, 0, 0);
@@ -19,6 +20,7 @@ li
     text-align:                left;
     font-size:                 35px;
     padding-left:              20px;
+    
 
 }
 a
@@ -208,7 +210,7 @@ th{
 #tor{
     font-size: 20px;
     text-align: left;
-   margin-top: 150px;
+   margin-top: 215px;
 }
 
 #jatek{
@@ -229,4 +231,5 @@ th{
  
 .alahuz{
     text-decoration: underline;
+    border-right: solid black;
 }
