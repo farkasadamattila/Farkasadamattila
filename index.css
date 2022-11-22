@@ -26,6 +26,7 @@ li
 a
 {
     color:                     rgb(255, 255, 255);
+    text-decoration: underline 2px;
 }
 
 th{
@@ -98,6 +99,7 @@ th{
     padding:                   10px;
     font-family:               Arial, Helvetica, sans-serif;
     font-size: 30px;
+   
 }
 
 .linkkep
@@ -210,7 +212,7 @@ th{
 #tor{
     font-size: 20px;
     text-align: left;
-   margin-top: 215px;
+   
 }
 
 #jatek{
@@ -227,9 +229,14 @@ th{
     height: 475px;
     margin-right: 100px;
     border:                    3px black solid;
+    ;
 }
  
 .alahuz{
     text-decoration: underline;
     border-right: solid black;
+}
+
+#lejjebb{
+    margin-top: 400px;
 }
