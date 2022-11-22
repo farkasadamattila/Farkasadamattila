@@ -18,7 +18,7 @@ td
 li
 {
     text-align:                left;
-    font-size:                 40px;
+    font-size:                 35px;
     padding-left:              20px;
     
 
@@ -53,9 +53,9 @@ th{
     margin:                    auto;
     margin-bottom:             10px;
     font-size:                 80px;
-    margin-top:                30px;
+  
     color:                     rgb(255, 255, 255);
-    margin-top:                100px;
+    margin-top:                60px;
 }
 
 .doboz:hover
@@ -134,8 +134,9 @@ th{
 #fop
 {
     text-align:                center;
-    font-size:                 50px;
-    font-family:               'Times New Roman', Times, Arial, Helvetica, sans-serif
+    font-size:                 40px;
+    font-family:               'Times New Roman', Times, Arial, Helvetica, sans-serif;
+    margin-top: 410px;
 }
 
 #fonti
@@ -176,7 +177,7 @@ th{
 #tori
 {
     color:                     white;
-    font-size:                 40px;
+    font-size:                 30px;
 
    text-align:  left;
 }
@@ -212,7 +213,7 @@ th{
 #tor{
     font-size: 20px;
     text-align: left;
-   margin-top: 95px;
+   margin-top: 90px;
 }
 
 #jatek{
@@ -226,7 +227,7 @@ th{
 #lof{
     float: right;
     width: 500px;
-    height: 557px;
+    height: 500px;
     margin-right: 300px;
     border:                    3px black solid;
     
